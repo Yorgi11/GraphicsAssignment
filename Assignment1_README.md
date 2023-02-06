@@ -1,9 +1,9 @@
 # Individual Assignmnet 1
 Video:
-https://youtu.be/NzBa7QYCGUw
-
-Presentation:
 https://youtu.be/iIPE21tHzI4
+
+Presentation: (Must be using an Ontario Tech google account)
+https://docs.google.com/presentation/d/1ppcLDxDTvarO2pEFkkk-NjMD7zMcnhbhV8peN72LD5U/edit?usp=sharing
 
 IMPLEMENTATIONS:
 The basic diffuse, ambient diffuse, and specular required little to no changes to be implemented into the game.
